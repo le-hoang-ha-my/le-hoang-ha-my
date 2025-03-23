@@ -1,5 +1,7 @@
 <img src="images/line-neon.gif" width="100%">
+
 # 🧠 My.exe has booted
+
 ![Header](images/github-header.png)
 
 > “Runs on quarter-life crisis and existential dread.” ☕💻💀
