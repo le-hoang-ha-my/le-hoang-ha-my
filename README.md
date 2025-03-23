@@ -1,4 +1,4 @@
-![Line Neon Blue-Purple](images/line-neon.gif)
+<img src="images/line-neon.gif" width="100%">
 # 🧠 My.exe has booted
 ![Header](images/github-header.png)
 
@@ -40,4 +40,4 @@ Photos capturing moments from my daily life - simple, serene, and full of joy:
 <br>
 <br>
 
-![Line Neon](images/line-neon.gif)
+<img src="images/line-neon.gif" width="100%">
