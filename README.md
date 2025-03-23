@@ -1,7 +1,5 @@
 <img src="images/line-neon.gif" width="100%">
 
-<img src="https://media.tenor.com/nANqORN7qhQAAAAM/explosion-explode.gif" width="100%"> 
-
 # 🧠 My.exe has booted
 
 ![Header](images/github-header.png)
