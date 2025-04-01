@@ -64,7 +64,7 @@ If you'd like to learn more about me, feel free to check out my [personal websit
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le-hoang-ha-my&theme=radical" alt="le-hoang-ha-my" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le-hoang-ha-my&theme=radical" alt="le-hoang-ha-my Streak Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
