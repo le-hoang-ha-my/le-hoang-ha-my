@@ -9,7 +9,9 @@
 # 👋 Hi, I'm My!
 
 Dingus, nil-lionaire, staygirl, melancholist.
+
 By day, I'm a Computer Science BS/MS student at Case Western Reserve University. 
+
 By night, I wonder if `git reset --hard` works on life decisions.
 
 ## 🔬 Interests
