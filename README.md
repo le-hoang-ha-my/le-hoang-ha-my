@@ -8,12 +8,13 @@
 
 # 👋 Hi, I'm My!
 
-I'm a human-shaped stack trace currently based in /dev/null.  
-By day, I wrestle with robots and neural nets. By night, I wonder if `git reset --hard` works on life decisions.
+Dingus, nil-lionaire, staygirl, melancholist.
+By day, I'm a Computer Science BS/MS student at Case Western Reserve University. 
+By night, I wonder if `git reset --hard` works on life decisions.
 
 ## 🔬 Interests
-- 🤖 Robot Learning & Control (because telling machines what to do is easier than people)
-- 🧠 AI, Machine Learning, Cognition & What it means to think like a human (or pretend really well to)
+- Robot Learning, Manipulation & Control
+- AI, Machine Learning, Cognition & What it means to think like a human (or pretend really well to)
 
 If you'd like to learn more about me, feel free to check out my [personal website](https://le-hoang-ha-my.github.io/)!
 ![Line Neon Blue-White](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
