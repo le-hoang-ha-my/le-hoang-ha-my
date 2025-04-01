@@ -17,7 +17,7 @@
 <br>
 Big nerd in a hoodie, take that away and what am I?
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fruktur&size=40&duration=2000&pause=2000&color=C77DFF&vCenter=true&width=435&lines=Dingus;Nil-lionaire;Delaygirl;Melancholist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Winky+Sans&size=40&duration=2000&pause=2000&color=C77DFF&vCenter=true&width=435&lines=Dingus;Nil-lionaire;Delaygirl;Melancholist)](https://git.io/typing-svg)
 
 By day, I'm a Computer Science BS/MS student at Case Western Reserve University. 
 
